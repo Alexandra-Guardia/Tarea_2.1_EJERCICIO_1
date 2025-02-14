@@ -2,9 +2,6 @@
 #   María Alexandra Guardia Canche
 #   alexandra.guardia.25@gmail.com
 #   Versión 1.0 : 13/02/2025
-
-
-
 import numpy as np  # Importamos la librería NumPy para manejar cálculos numéricos
 import matplotlib.pyplot as plt  # Importamos Matplotlib para graficar
 
